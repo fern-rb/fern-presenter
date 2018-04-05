@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = 'kyle@kestell.org'
   s.summary     = 'Fern Presenter'
   s.description = 'Presenter support for Fern.'
-  s.homepage    = 'https://github.com/fern-rb/fern-form'
+  s.homepage    = 'https://github.com/fern-rb/fern-presenter'
   s.license     = 'MIT'
   s.files       = Dir['lib/**/*']
 
