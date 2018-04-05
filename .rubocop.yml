@@ -1,0 +1,27 @@
+AllCops:
+  TargetRubyVersion: 2.3
+  DisplayCopNames: true
+
+Layout/AlignParameters:
+  EnforcedStyle: with_fixed_indentation
+
+Layout/MultilineMethodCallIndentation:
+  Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Naming/AccessorMethodName:
+  Enabled: false
+
+Naming/FileName:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
